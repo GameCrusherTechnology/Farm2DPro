@@ -1,0 +1,17 @@
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/obj/Debug/Assembly-CSharp.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/UnityEngine.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/UnityEditor.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Mono.Cecil.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Unity.DataContract.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Temp/bin/Debug/Mono.Cecil.Mdb.dll
