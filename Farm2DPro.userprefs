@@ -1,17 +1,35 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Manager/DataManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Entity\Garden.cs">
     <Files>
-      <File FileName="Assets/Scripts/Manager/FarmManager.cs" Line="66" Column="59" />
-      <File FileName="Assets/Scripts/Data/CropData.cs" Line="4" Column="22" />
-      <File FileName="Assets/Scripts/Entity/Garden.cs" Line="16" Column="29" />
-      <File FileName="Assets/Scripts/Manager/GameManager.cs" Line="44" Column="28" />
-      <File FileName="Assets/Scripts/Manager/DataManager.cs" Line="25" Column="82" />
+      <File FileName="Assets\Scripts\Data\PlayerData.cs" Line="48" Column="41" />
+      <File FileName="Assets\Scripts\Manager\DataManager.cs" Line="283" Column="1" />
+      <File FileName="Assets\Scripts\Data\GardenData.cs" Line="6" Column="12" />
+      <File FileName="Assets\Scripts\Entity\Garden.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\Entity\BoardTile.cs" Line="22" Column="47" />
+      <File FileName="Assets\Scripts\Data\Tile.cs" Line="17" Column="70" />
+      <File FileName="Assets\Scripts\Manager\FarmManager.cs" Line="165" Column="32" />
+      <File FileName="Assets\Scripts\Panel\ShopPanel.cs" Line="196" Column="45" />
+      <File FileName="Assets\Scripts\Panel\WareHousePanel.cs" Line="113" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/coco/UnityProjects/UnityWorkSpace/Farm2DPro/Assets/Scripts/Manager/FarmManager.cs" line="22" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Entity\Garden.cs" line="245" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Manager\FarmManager.cs" line="411" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Panel\GardenInfoPanel.cs" line="71" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Panel\GardenInfoPanel.cs" line="123" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Entity\Decoration.cs" line="134" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Entity\Decoration.cs" line="123" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Manager\FarmManager.cs" line="201" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Entity\Decoration.cs" line="97" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Entity\Tree.cs" line="29" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Entity\Garden.cs" line="401" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\loading\LoadingScreen.cs" line="126" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Manager\DataManager.cs" line="282" column="1" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Manager\DataManager.cs" line="41" column="4" />
+      <Breakpoint file="E:\workSpace\UnityPro\Farm2DPro\Assets\Scripts\Manager\FarmManager.cs" line="163" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

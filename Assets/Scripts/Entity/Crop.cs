@@ -12,4 +12,8 @@ public class Crop : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	public void validateSurface(Sprite sp){
+		transform.FindChild ("Crop").GetComponent<SpriteRenderer> ().sprite = sp;
+	}
 }

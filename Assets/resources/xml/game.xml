@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<database>
+	<Group group_id="Crop">
+		<Crop item_id="10000" name="Potato"     	growStepTime="30" 		productCount="4"		productId="22000"	harvestExp="1"	level="0"   coinPrice="20"/>
+		<Crop item_id="10001" name="Radish"     	growStepTime="150"		productCount="3"		productId="22001"	harvestExp="2" 	level="3"  	coinPrice="30" 			type="Crop"		/>
+		<Crop item_id="10002" name="Beans" 			growStepTime="900"		productCount="10"		productId="22002"	harvestExp="3" 	level="5"  	coinPrice="40" 			type="Crop"		/>
+		<Crop item_id="10003" name="RedPepper"  	growStepTime="225"		productCount="8"		productId="22003"	harvestExp="3" 	level="6"  	coinPrice="50" 			type="Crop"		/>
+		<Crop item_id="10004" name="Tomato" 		growStepTime="75"		productCount="6"		productId="22004"	harvestExp="1" 	level="8"  	coinPrice="60" 			type="Crop"		/>
+		<Crop item_id="10005" name="Asparagus"  	growStepTime="1200"		productCount="3"		productId="22005"	harvestExp="3" 	level="10" 	coinPrice="70" 			type="Crop"		/>
+		<Crop item_id="10006" name="Eggplant"   	growStepTime="450"		productCount="5"		productId="22006"	harvestExp="2" 	level="12" 	coinPrice="80" 			type="Crop"		/>
+		<Crop item_id="10007" name="Carrot" 		growStepTime="75"		productCount="4"		productId="22007"	harvestExp="1" 	level="14" 	coinPrice="90" 			type="Crop"		/>
+		<Crop item_id="10008" name="Lettuce"    	growStepTime="300"		productCount="4"		productId="22008"	harvestExp="2" 	level="16" 	coinPrice="100"			type="Crop"		/>
+		<Crop item_id="10009" name="Sunflower"  	growStepTime="30" 		productCount="3"		productId="22009"	harvestExp="1" 	level="18"  coinPrice="110" 		type="Crop"		/>
+		<Crop item_id="10010" name="Leek"      		growStepTime="450" 		productCount="4"		productId="22010"	harvestExp="2" 	level="20"  coinPrice="120" 		type="Crop"		/>
+		<Crop item_id="10011" name="Corn"    		growStepTime="300" 		productCount="7"		productId="22011"	harvestExp="2" 	level="22"  coinPrice="130"			type="Crop"		/>
+		<Crop item_id="10012" name="Pea"      		growStepTime="1800" 	productCount="20"		productId="22012"	harvestExp="4" 	level="24"  coinPrice="140"			type="Crop"		/>
+		<Crop item_id="10013" name="Grape"      	growStepTime="1500" 	productCount="10"		productId="22013"	harvestExp="4" 	level="26"  coinPrice="150" 		type="Crop"		/>
+		<Crop item_id="10015" name="Blueberry"  	growStepTime="150" 		productCount="8"		productId="22015"	harvestExp="2" 	level="30"  coinPrice="170" 		type="Crop"		/>
+		<Crop item_id="10017" name="Rice"     		growStepTime="90" 		productCount="15"		productId="22017"	harvestExp="2" 	level="32"  coinPrice="190" 		type="Crop"		/>
+		<Crop item_id="10018" name="Lentil"     	growStepTime="450" 		productCount="18"		productId="22018"	harvestExp="3" 	level="34"  coinPrice="200" 		type="Crop"		/>
+		<Crop item_id="10019" name="Spinach"    	growStepTime="1200" 	productCount="8"		productId="22019"	harvestExp="4" 	level="36"  coinPrice="210" 		type="Crop"		/>
+		<Crop item_id="10020" name="Mint"      		growStepTime="225" 		productCount="4"		productId="22020"	harvestExp="2" 	level="38"  coinPrice="220" 		type="Crop"		/>
+		<Crop item_id="10021" name="Mustard"    	growStepTime="3600" 	productCount="9"		productId="22021"	harvestExp="4" 	level="40"  coinPrice="230" 		type="Crop"		/>
+		<Crop item_id="10022" name="Oat"      		growStepTime="300" 		productCount="22"		productId="22022"	harvestExp="2" 	level="42"  coinPrice="240" 		type="Crop"		/>
+		<Crop item_id="10024" name="Pineapple"  	growStepTime="900" 		productCount="4"		productId="22024"	harvestExp="2" 	level="46"  coinPrice="260" 		type="Crop"		/>
+		
+
+		<Crop item_id="11000" name="AppleTree" 		growStepTime="1350" 	productCount="8"		productId="22028"	harvestExp="2" 	level="0" 	gemPrice="10" 			type="Tree"	/>
+		<Crop item_id="11001" name="OrangeTree"     growStepTime="1800"		productCount="20"		productId="22029"	harvestExp="2" 	level="0" 	gemPrice="12"  			type="Tree"	/>
+		<Crop item_id="11002" name="PearTree" 		growStepTime="2700"		productCount="10"		productId="22030"	harvestExp="2" 	level="0" 	gemPrice="14"			type="Tree"	/>
+		<Crop item_id="11003" name="LemonTree"      growStepTime="5400"		productCount="15"		productId="22033"	harvestExp="3" 	level="0" 	gemPrice="16"			type="Tree"	/>
+		<Crop item_id="11004" name="MangoTree"      growStepTime="1800"		productCount="12"		productId="22034"	harvestExp="3" 	level="0" 	gemPrice="18"			type="Tree"	/>
+		<Crop item_id="11005" name="CherryTree"    	growStepTime="2250"		productCount="20"		productId="22031"	harvestExp="3" 	level="0" 	gemPrice="20"			type="Tree"	/>
+		<Crop item_id="11006" name="LeecheeTree"    growStepTime="10800" 	productCount="30"		productId="22032"	harvestExp="5" 	level="0" 	gemPrice="22"			type="Tree"	/>
+		<Crop item_id="11007" name="AlmondTree"     growStepTime="10800" 	productCount="30"		productId="22032"	harvestExp="5" 	level="0" 	gemPrice="22"			type="Tree"		waterPoint="20"			waterBound="10"/>
+
+	</Group>
+
+
+	<Group group_id="Item">
+		<Item item_id="20000" name="Potato"  />
+
+
+		<Item item_id="22000" name="Potato"    	coinPrice="6" 	/>
+		<Item item_id="22001" name="Radish"    	coinPrice="13" />
+		<Item item_id="22002" name="Beans" 		coinPrice="9" />
+		<Item item_id="22003" name="RedPepper"  coinPrice="8" />
+		<Item item_id="22004" name="Tomato" 	coinPrice="11" />
+		<Item item_id="22005" name="Asparagus" 	coinPrice="46" />
+		<Item item_id="22006" name="Eggplant"   coinPrice="22" />
+		<Item item_id="22007" name="Carrot" 	coinPrice="24" />
+		<Item item_id="22008" name="Lettuce"    coinPrice="30"/>
+		<Item item_id="22009" name="Sunflower"  coinPrice="38" />
+		<Item item_id="22010" name="Leek"      	coinPrice="37" />
+		<Item item_id="22011" name="Corn"    	coinPrice="21"/>
+		<Item item_id="22012" name="Pea"      	coinPrice="13"/>
+		<Item item_id="22013" name="Grape"      coinPrice="25" />
+		<Item item_id="22014" name="Lily"      	coinPrice="29" />
+		<Item item_id="22015" name="Blueberry"  coinPrice="23" />
+		<Item item_id="22016" name="Kiwi"      	coinPrice="76" />
+		<Item item_id="22017" name="Rice"     	coinPrice="13" />
+		<Item item_id="22018" name="Lentil"     coinPrice="13" />
+		<Item item_id="22019" name="Spinach"  	coinPrice="36" />
+		<Item item_id="22020" name="Mint"      	coinPrice="59" />
+		<Item item_id="22021" name="Mustard"    coinPrice="54"/>
+		<Item item_id="22022" name="Oat"      	coinPrice="12" />
+		<Item item_id="22023" name="Bamboo"    	coinPrice="63"/>
+		<Item item_id="22024" name="Pineapple"  coinPrice="82" />
+		<Item item_id="22025" name="Strawberry" coinPrice="24" />
+		<Item item_id="22026" name="Cranberry"  coinPrice="13" />
+		<Item item_id="22027" name="RedRose"    coinPrice="138"/>
+		
+		<Item item_id="22028" name="Apple" 		coinPrice="6" 	/>
+		<Item item_id="22029" name="Orange"     coinPrice="3" 	/>
+		<Item item_id="22030" name="Pear" 		coinPrice="9" 	/>
+		<Item item_id="22031" name="Lemon"      coinPrice="12" 	/>
+		<Item item_id="22032" name="Mango"      coinPrice="6" 	/>
+		<Item item_id="22033" name="Cherry"    	coinPrice="5" 	/>
+		<Item item_id="22034" name="Leechee"    coinPrice="15"	/>
+	</Group>
+
+
+	<Group group_id="Building">
+		<Building item_id="30000" name="House" 		surfaceName ="Texture/Decoration/TreeBronzeHouse" 	boardName="Texture/Board/HouseBoard"	expand_x= "3"  expand_y= "3"	maxCount = "1"	/>
+
+
+		<Building item_id="31000" name="Garden" 	surfaceName ="Texture/icon/GardenIcon"		floorId="41000"		fenceId= "42000"					level="5"	type="Garden"	gemPrice="10"/>
+		<Building item_id="31001" name="Garden"		surfaceName ="Texture/icon/GardenIcon"		floorId="41000"		fenceId= "42000"	maxCount = "2"	level="15"	type="Garden"	coinPrice="110"/>
+
+		<Building item_id="32000" name="TreeBoard" 	surfaceName ="Texture/icon/TreeBoardIcon" 	boardName="HouseBoard"	expand_x= "2"  expand_y= "2"	level="10"	type="TreeBoard"	gemPrice="10"/>
+		<Building item_id="32001" name="TreeBoard" 	surfaceName ="Texture/icon/TreeBoardIcon" 	boardName="HouseBoard"	expand_x= "2"  expand_y= "2"	maxCount = "5"	level="15"	type="TreeBoard"	coinPrice="110"/>
+		<Building item_id="32002" name="TreeBoard" 	surfaceName ="Texture/icon/TreeBoardIcon" 	boardName="HouseBoard"	expand_x= "2"  expand_y= "2"	maxCount = "5"	level="20"	type="TreeBoard"	coinPrice="110"/>
+		<Building item_id="32003" name="TreeBoard" 	surfaceName ="Texture/icon/TreeBoardIcon" 	boardName="HouseBoard"	expand_x= "2"  expand_y= "2"	maxCount = "5"	level="25"	type="TreeBoard"	coinPrice="110"/>
+		<Building item_id="32004" name="TreeBoard" 	surfaceName ="Texture/icon/TreeBoardIcon" 	boardName="HouseBoard"	expand_x= "2"  expand_y= "2"	maxCount = "5"	level="30"	type="TreeBoard"	coinPrice="110"/>
+		<Building item_id="32005" name="TreeBoard" 	surfaceName ="Texture/icon/TreeBoardIcon" 	boardName="HouseBoard"	expand_x= "2"  expand_y= "2"	maxCount = "5"	level="30"	type="TreeBoard"	coinPrice="110"/>
+
+	</Group>
+
+	<Group group_id="Decoration">
+		<Decoration item_id="40000" name="Dec" 					surfaceName ="Texture/Decoration/Haystack01" 			expand_x= "2"  expand_y= "2"/>
+
+		<Decoration item_id="41000" name="Floor01" 				surfaceName ="Texture/Scene/Floor01" 			coinPrice="110"		expand_x= "1"  expand_y= "1"	type="floor"/>
+		<Decoration item_id="41002" name="Floor03" 				surfaceName ="Texture/Scene/Floor03" 			coinPrice="130"		expand_x= "1"  expand_y= "1"	type="floor"/>
+		<Decoration item_id="41003" name="Floor04" 				surfaceName ="Texture/Scene/Floor04" 			coinPrice="140"		expand_x= "1"  expand_y= "1"	type="floor"/>
+		<Decoration item_id="41004" name="HouseStatic" 			surfaceName ="Texture/Scene/HouseStatic" 		coinPrice="140"		expand_x= "1"  expand_y= "1"	type="floor"/>
+
+
+		<Decoration item_id="42000" name="SquareWoodFence" 			surfaceName ="Texture/Scene/SquareWoodFence" 		coinPrice="10000"	expand_x= "4"  expand_y= "1"	type="fence"/>
+		<Decoration item_id="42001" name="BlackIronFence" 			surfaceName ="Texture/Scene/BlackIronFence" 		coinPrice="10000"	expand_x= "4"  expand_y= "1"	type="fence"/>
+		<Decoration item_id="42002" name="BoardFence" 				surfaceName ="Texture/Scene/BoardFence" 			gemPrice="20"		expand_x= "4"  expand_y= "1"	type="fence"/>
+		<Decoration item_id="42003" name="BrownBoardFence" 			surfaceName ="Texture/Scene/BrownBoardFence" 		gemPrice="20"		expand_x= "4"  expand_y= "1"	type="fence"/>
+		<Decoration item_id="42004" name="RoundWoodFence" 			surfaceName ="Texture/Scene/RoundWoodFence" 		gemPrice="20"		expand_x= "4"  expand_y= "1"	type="fence"/>
+		<Decoration item_id="42005" name="HeckeFence" 				surfaceName ="Texture/Scene/HeckeFence" 			gemPrice="20"		expand_x= "4"  expand_y= "1"	type="fence"/>
+		<Decoration item_id="42006" name="Hecke2Fence" 				surfaceName ="Texture/Scene/Hecke2Fence" 			gemPrice="20"		expand_x= "4"  expand_y= "1"	type="fence"/>
+		<Decoration item_id="42007" name="RockFence" 				surfaceName ="Texture/Scene/RockFence" 				gemPrice="20"		expand_x= "4"  expand_y= "1"	type="fence"/>
+		<Decoration item_id="42008" name="WhiteTrumpetLilyFence" 	surfaceName ="Texture/Scene/WhiteTrumpetLilyFence" 	gemPrice="20"		expand_x= "4"  expand_y= "1"	type="fence"/>
+
+	</Group>
+
+
+	<Group group_id="Animal">
+		<Animal item_id="50000" name="Chick" 	surfaceName ="Texture/Scene/Hecke2Fence" 	/>
+	</Group>
+	<Group group_id="Pet">
+			<Pet item_id="60000" name="Dog" 	surfaceName ="Dog" 		/>
+	</Group>
+</database>

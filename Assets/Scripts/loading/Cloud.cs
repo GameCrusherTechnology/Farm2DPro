@@ -24,7 +24,7 @@ public class Cloud : MonoBehaviour {
 		}
 	}
 	void initScale(){
-		count = Random.Range (200, 500);
+		count = Random.Range (200, 300);
 		sx = sy =  Random.value ;
 	}
 

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: a9aceb232881e4c4e9288d9e4e51c008
-timeCreated: 1508743719
+guid: 5b3f226252dc2594a82a88b664e017c5
+timeCreated: 1514036188
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -46,9 +46,11 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites: []
     outline: []
   spritePackingTag: 

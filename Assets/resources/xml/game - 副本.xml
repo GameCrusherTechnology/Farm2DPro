@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<database>
+	<Group id="Crop">
+		<Crop item_id="10000" name="Potato"     	growtime="0.5:0.5:0.5:0.5" 		productCount="4"		productId="22000"	exp="1" 	level="0"  	coinPrice="20" 			type="Crop"		/>
+		<Crop item_id="10001" name="Radish"     	growtime="2.5:2.5:2.5:2.5"		productCount="3"		productId="22001"	exp="2" 	level="3"  	coinPrice="30" 			type="Crop"		/>
+		<Crop item_id="10002" name="Beans" 			growtime="15:15:15:15"			productCount="10"		productId="22002"	exp="3" 	level="5"  	coinPrice="40" 			type="Crop"		/>
+		<Crop item_id="10003" name="RedPepper"  	growtime="3.75:3.75:3.75:3.75"	productCount="8"		productId="22003"	exp="3" 	level="6"  	coinPrice="50" 			type="Crop"		/>
+		<Crop item_id="10004" name="Tomato" 		growtime="1.25:1.25:1.25:1.25"	productCount="6"		productId="22004"	exp="1" 	level="8"  	coinPrice="60" 			type="Crop"		/>
+		<Crop item_id="10005" name="Asparagus"  	growtime="20:20:20:20"			productCount="3"		productId="22005"	exp="3" 	level="10" 	coinPrice="70" 			type="Crop"		/>
+		<Crop item_id="10006" name="Eggplant"   	growtime="7.5:7.5:7.5:7.5"		productCount="5"		productId="22006"	exp="2" 	level="12" 	coinPrice="80" 			type="Crop"		/>
+		<Crop item_id="10007" name="Carrot" 		growtime="1.25:1.25:1.25:1.25"	productCount="4"		productId="22007"	exp="1" 	level="14" 	coinPrice="90" 			type="Crop"		/>
+		<Crop item_id="10008" name="Lettuce"    	growtime="5:5:5:5"				productCount="4"		productId="22008"	exp="2" 	level="16" 	coinPrice="100"			type="Crop"		/>
+		<Crop item_id="10009" name="Sunflower"  	growtime="0.5:0.5:0.5:0.5" 		productCount="3"		productId="22009"	exp="1" 	level="18"  coinPrice="110" 		type="Crop"		/>
+		<Crop item_id="10010" name="Leek"      		growtime="7.5:7.5:7.5:7.5" 		productCount="4"		productId="22010"	exp="2" 	level="20"  coinPrice="120" 		type="Crop"		/>
+		<Crop item_id="10011" name="Corn"    		growtime="5:5:5:5" 				productCount="7"		productId="22011"	exp="2" 	level="22"  coinPrice="130"			type="Crop"		/>
+		<Crop item_id="10012" name="Pea"      		growtime="30:30:30:30" 			productCount="20"		productId="22012"	exp="4" 	level="24"  coinPrice="140"			type="Crop"		/>
+		<Crop item_id="10013" name="Grape"      	growtime="25:25:25:25" 			productCount="10"		productId="22013"	exp="4" 	level="26"  coinPrice="150" 		type="Crop"		/>
+		<Crop item_id="10015" name="Blueberry"  	growtime="2.5:2.5:2.5:2.5" 		productCount="8"		productId="22015"	exp="2" 	level="30"  coinPrice="170" 		type="Crop"		/>
+		<Crop item_id="10017" name="Rice"     		growtime="1.5:1.5:1.5:1.5" 		productCount="15"		productId="22017"	exp="2" 	level="32"  coinPrice="190" 		type="Crop"		/>
+		<Crop item_id="10018" name="Lentil"     	growtime="7.5:7.5:7.5:7.5" 		productCount="18"		productId="22018"	exp="3" 	level="34"  coinPrice="200" 		type="Crop"		/>
+		<Crop item_id="10019" name="Spinach"    	growtime="20:20:20:20" 			productCount="8"		productId="22019"	exp="4" 	level="36"  coinPrice="210" 		type="Crop"		/>
+		<Crop item_id="10020" name="Mint"      		growtime="3.75:3.75:3.75:3.75" 	productCount="4"		productId="22020"	exp="2" 	level="38"  coinPrice="220" 		type="Crop"		/>
+		<Crop item_id="10021" name="Mustard"    	growtime="60:60:60:60" 			productCount="9"		productId="22021"	exp="4" 	level="40"  coinPrice="230" 		type="Crop"		/>
+		<Crop item_id="10022" name="Oat"      		growtime="5:5:5:5" 				productCount="22"		productId="22022"	exp="2" 	level="42"  coinPrice="240" 		type="Crop"		/>
+		<Crop item_id="10024" name="Pineapple"  	growtime="15:15:15:15" 			productCount="4"		productId="22024"	exp="2" 	level="46"  coinPrice="260" 		type="Crop"		/>
+		
+		<!-- 
+		<Crop item_id="10023" name="Bamboo"     	growtime="30:30:30:30" 			productCount="6"		productId="22023"	exp="3" 	level="44"  coinPrice="250" 		type="Crop"		/>
+		<Crop item_id="10025" name="Strawberry" 	growtime="20:20:20:20" 			productCount="15"		productId="22025"	exp="3" 	level="48"  coinPrice="270" 		type="Crop"		/>
+		<Crop item_id="10026" name="Cranberry"  	growtime="7.5:7.5:7.5:7.5" 		productCount="24"		productId="22026"	exp="2" 	level="50"  coinPrice="280" 		type="Crop"		/>
+		<Crop item_id="10014" name="Lily"      		growtime="10:10:10:10" 			productCount="7"		productId="22014"	exp="3" 	level="28"  coinPrice="160" 		type="Crop"		/>
+		<Crop item_id="10016" name="Kiwi"      		growtime="180:180:180:180" 		productCount="12"		productId="22016"	exp="5" 	level="32"  coinPrice="180" 		type="Crop"		/>
+		<Crop item_id="10027" name="RedRose"    	growtime="180:180:180:180" 		productCount="8"		productId="22027"	exp="5" 	level="54"  coinPrice="290" 		type="Crop"		/>
+		-->
+		<Crop item_id="11000" name="AppleTree" 		growtime="22.5:22.5:22.5:22.5" 	productCount="8"		productId="22028"	exp="2" 	level="0" 	gemPrice="10" 			type="Tree"		waterPoint="20"			waterBound="4"/>
+		<Crop item_id="11001" name="OrangeTree"     growtime="30:30:30:30"			productCount="20"		productId="22029"	exp="2" 	level="0" 	gemPrice="12"  			type="Tree"		waterPoint="20"			waterBound="5"/>
+		<Crop item_id="11002" name="PearTree" 		growtime="45:45:45:45"			productCount="10"		productId="22030"	exp="2" 	level="0" 	gemPrice="14"			type="Tree"		waterPoint="20"			waterBound="6"/>
+		<Crop item_id="11003" name="LemonTree"      growtime="90:90:90:90"			productCount="15"		productId="22033"	exp="3" 	level="0" 	gemPrice="16"			type="Tree"		waterPoint="20"			waterBound="7"/>
+		<Crop item_id="11004" name="MangoTree"      growtime="30:30:30:30"			productCount="12"		productId="22034"	exp="3" 	level="0" 	gemPrice="18"			type="Tree"		waterPoint="20"			waterBound="8"/>
+		<Crop item_id="11005" name="CherryTree"    	growtime="37.5:37.5:37.5:37.5"	productCount="20"		productId="22031"	exp="3" 	level="0" 	gemPrice="20"			type="Tree"		waterPoint="20"			waterBound="9"/>
+		<Crop item_id="11006" name="LeecheeTree"    growtime="180:180:180:180" 		productCount="30"		productId="22032"	exp="5" 	level="0" 	gemPrice="22"			type="Tree"		waterPoint="20"			waterBound="10"/>
+		<Crop item_id="11007" name="AlmondTree"     growtime="180:180:180:180" 		productCount="30"		productId="22032"	exp="5" 	level="0" 	gemPrice="22"			type="Tree"		waterPoint="20"			waterBound="10"/>
+
+		
+	</Group>
+	
+	<Group id="Item">
+		<Item item_id="20001" name="fertilize"  	gemPrice="1"/>
+		<Item item_id="20002" name="plow"  			gemPrice="2"/>
+		<Item item_id="20003" name="scoop"  		gemPrice="2"/>
+		<Item item_id="20004" name="superscoop"  	gemPrice="5"/>
+		<Item item_id="20005" name="Formula"  		gemPrice="5"/>
+		
+		<!-- 产物 -->
+		<Item item_id="22000" name="Potato"    	coinPrice="6" 	/>
+		<Item item_id="22001" name="Radish"    	coinPrice="13" />
+		<Item item_id="22002" name="Beans" 		coinPrice="9" />
+		<Item item_id="22003" name="RedPepper"  coinPrice="8" />
+		<Item item_id="22004" name="Tomato" 	coinPrice="11" />
+		<Item item_id="22005" name="Asparagus" 	coinPrice="46" />
+		<Item item_id="22006" name="Eggplant"   coinPrice="22" />
+		<Item item_id="22007" name="Carrot" 	coinPrice="24" />
+		<Item item_id="22008" name="Lettuce"    coinPrice="30"/>
+		<Item item_id="22009" name="Sunflower"  coinPrice="38" />
+		<Item item_id="22010" name="Leek"      	coinPrice="37" />
+		<Item item_id="22011" name="Corn"    	coinPrice="21"/>
+		<Item item_id="22012" name="Pea"      	coinPrice="13"/>
+		<Item item_id="22013" name="Grape"      coinPrice="25" />
+		<Item item_id="22014" name="Lily"      	coinPrice="29" />
+		<Item item_id="22015" name="Blueberry"  coinPrice="23" />
+		<Item item_id="22016" name="Kiwi"      	coinPrice="76" />
+		<Item item_id="22017" name="Rice"     	coinPrice="13" />
+		<Item item_id="22018" name="Lentil"     coinPrice="13" />
+		<Item item_id="22019" name="Spinach"  	coinPrice="36" />
+		<Item item_id="22020" name="Mint"      	coinPrice="59" />
+		<Item item_id="22021" name="Mustard"    coinPrice="54"/>
+		<Item item_id="22022" name="Oat"      	coinPrice="12" />
+		<Item item_id="22023" name="Bamboo"    	coinPrice="63"/>
+		<Item item_id="22024" name="Pineapple"  coinPrice="82" />
+		<Item item_id="22025" name="Strawberry" coinPrice="24" />
+		<Item item_id="22026" name="Cranberry"  coinPrice="13" />
+		<Item item_id="22027" name="RedRose"    coinPrice="138"/>
+		
+		<Item item_id="22028" name="Apple" 		coinPrice="6" 	/>
+		<Item item_id="22029" name="Orange"     coinPrice="3" 	/>
+		<Item item_id="22030" name="Pear" 		coinPrice="9" 	/>
+		<Item item_id="22031" name="Lemon"      coinPrice="12" 	/>
+		<Item item_id="22032" name="Mango"      coinPrice="6" 	/>
+		<Item item_id="22033" name="Cherry"    	coinPrice="5" 	/>
+		<Item item_id="22034" name="Leechee"    coinPrice="15"	/>
+		
+	</Group>
+	
+	<Group id="WildAnimal">
+		<WildAnimal item_id="40001" name="BeaAnimal"	/>
+		<WildAnimal item_id="40002" name="BirdAnimal"	/>
+		
+	</Group>
+	<Group id="Entity">
+		<Entity item_id="50000" 	name="Stone_down"			type ="floor"/>
+		<Entity item_id="50001" 	name="Stone_up"				type ="floor"/>
+		<Entity item_id="50002" 	name="Stone_left"			type ="floor"/>
+		<Entity item_id="50003" 	name="Stone_right"			type ="floor"/>
+		<Entity item_id="50004" 	name="Stone_left_up"		type ="floor"/>
+		<Entity item_id="50005" 	name="Stone_left_down"		type ="floor"/>
+		<Entity item_id="50006" 	name="Stone_right_down"		type ="floor"/>
+		<Entity item_id="50007" 	name="Stone_right_up"		type ="floor"/>
+		
+		<Entity item_id="50008" 	name="Parrot"				type ="house"	bound_x="1"		bound_y="1"		fieldCls="TreeLand_high"/>
+		
+	</Group>
+</database>

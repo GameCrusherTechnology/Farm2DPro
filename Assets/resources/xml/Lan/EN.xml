@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language>
+	<resourceName key="welcome" value="Welcome"/>
+	<resourceName key="confirm" value="confirm"/>
+	<resourceName key="yes" value="Yes"/>
+	<resourceName key="no" value="No"/>
+	<resourceName key="change" value="change"/>
+	<resourceName key="farmExpand" value="Farm Expansion "/>
+	<resourceName key="homestead" value="homestead"/>
+	<resourceName key="warehouse" value="warehouse"/>
+
+
+	<resourceName key="loadingdata" value="data reading"/>
+	<resourceName key="loadinginit" value="initializing"/>
+
+
+	<resourceName key="warningName" 	value="Design a name for the farm! ↖(^ω^)↗"/>
+	<resourceName key="warningReName" 	value="You can rename the name of the farm. But cost a little money."/>
+	<resourceName key="warningNoName" 	value="Don't forget to give the farm a name!"/>
+	<resourceName key="warningDelete" 	value="Are you sure you want to remove this?"/>
+	<resourceName key="warningCannotExpandGarden" 	value="The land is occupied!"/>
+	<resourceName key="noEnoughCoin" 	value="You do not have enough coins."/>
+	<resourceName key="noEnoughGem" 	value="You do not have enough gems."/>
+	<resourceName key="confirmExpand" 	value="Are you sure you want to expand the farm?"/>
+</language>
